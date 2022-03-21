@@ -1,0 +1,35 @@
+/* header */
+
+#text-h5{
+    color: blue;
+}
+
+
+
+/* corpo articolo */
+
+.lorem1{
+    background-color:#ffef0f;
+}
+
+.row-left{
+    display:inline-block;
+    width: 20%;
+    background-color: blue;
+    color: white;
+    
+}
+
+.row-center{
+    display: inline-block;
+    width: 20%;
+    background-color: blue;
+    color: white;
+}
+
+.row-right{
+    display: inline-block;
+    width: 50%;
+    background-color: blue;
+    color:white;
+}
