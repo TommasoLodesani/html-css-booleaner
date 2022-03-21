@@ -8,6 +8,16 @@
 
 /* corpo articolo */
 
+.container-img{
+    display: block;
+}
+
+.didascalia-img{
+    font-size: 12px;
+}
+
+/* primo paragrafo */
+
 .lorem1{
     background-color:#ffef0f;
 }
