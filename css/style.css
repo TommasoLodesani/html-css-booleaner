@@ -32,3 +32,23 @@ table{
 .lorem2{
     background-color:#ffef0f
 }
+
+/* stile footer */
+
+footer h3{
+    color: gray;
+}
+
+.container {
+    position: relative;
+    color: white;
+  }
+
+  .text-img-1{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 30px;
+  }
+
+  
