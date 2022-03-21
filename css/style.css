@@ -12,24 +12,23 @@
     background-color:#ffef0f;
 }
 
-.row-left{
-    display:inline-block;
-    width: 20%;
-    background-color: blue;
-    color: white;
-    
+/* stile tabella */
+
+table{
+    table-layout:fixed; width: 100%;
+    text-align: justify;
 }
 
-.row-center{
-    display: inline-block;
-    width: 20%;
+#tr-thead{
     background-color: blue;
-    color: white;
 }
 
-.row-right{
-    display: inline-block;
-    width: 50%;
-    background-color: blue;
-    color:white;
+#tr-tbody1{
+    background-color: lightblue;
+}
+
+/* paragrafo */
+
+.lorem2{
+    background-color:#ffef0f
 }
