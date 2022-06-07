@@ -31,13 +31,14 @@ table{
 
 #tr-thead{
     background-color: blue;
+    color: white;
 }
 
 #tr-tbody1{
     background-color: lightblue;
 }
 
-/* paragrafo */
+/* secondo paragrafo */
 
 .lorem2{
     background-color:#ffef0f
